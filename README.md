@@ -36,10 +36,6 @@ Bu uygulama, YouTube videolarını MP3 formatında indirmenizi sağlar. Kullanı
 3. "İndir" butonuna tıklayarak indirme işlemini başlatın.
 4. Ayarlar penceresinden indirme klasörünü, ses kalitesini ve maksimum indirme sayısını ayarlayabilirsiniz.
 
-## Ekran Görüntüleri
-
-![Uygulama Ekran Görüntüsü](screenshot.png)
-
 ## Lisans
 
 Bu proje MIT Lisansı ile lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasına bakın.
